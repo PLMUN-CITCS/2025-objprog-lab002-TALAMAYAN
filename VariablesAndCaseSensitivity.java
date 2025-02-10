@@ -6,7 +6,6 @@ public class VariablesAndCaseSensitivity {
         int counter = 10;
         int Counter = 20;
         System.out.println("Student Age: " + studentAge);
-        System.out.println("Student Age: " + studentAge);
         System.out.println("Item Price: $" + itemPrice);
         System.out.println("Student Name: " + studentName);
         System.out.println("Counter: " + counter);
